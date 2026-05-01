@@ -22,7 +22,7 @@ This repository contains the tasks completed during my Data Analytics internship
 ## 🛠️ Tools & Libraries Used
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- **Environment:** Jupyter Notebook / Google Colab
+- **Environment:** Google Colab
 
 ## 📈 Key Insights
 - The **Setosa** species forms a highly distinct cluster compared to Versicolor and Virginica.
